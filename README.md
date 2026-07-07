@@ -7,5 +7,7 @@
 
 #使用方式：
 进入该项目点击"扑克牌记牌器.exe"运行即可
+![image](https://github.com/liu-917/Poker_Recorder/blob/master/4cbfc121-e04c-4488-bd56-8b31c35c00ac.png)
 
+运行结果：
 ![image](https://github.com/liu-917/Poker_Recorder/blob/master/f21ecee5-9fd9-442f-9111-724929201d25.png)
