@@ -1,0 +1,4 @@
+# 扑克牌收集记录器
+# 使用 Python 标准库 tkinter，无需额外安装依赖
+# Python >= 3.10
+pyinstaller
