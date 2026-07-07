@@ -8,4 +8,4 @@
 #使用方式：
 进入该项目点击"扑克牌记牌器.exe"运行即可
 
-![Uploading image.png…]()
+(https://github.com/liu-917/Poker_Recorder/blob/master/f21ecee5-9fd9-442f-9111-724929201d25.png)
